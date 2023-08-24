@@ -20,3 +20,8 @@ https://github.com/Versent/saml2aws
 
 
 https://www.hpcworkshops.com/05-create-cluster/01-create-cluster.html
+
+
+export SINGULARITY_DOCKER_USERNAME=AWS 
+export SINGULARITY_DOCKER_PASSWORD=$(aws ecr get-login-password)
+
