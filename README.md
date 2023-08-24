@@ -17,3 +17,6 @@ $ saml2aws --version
 saml2aws configure : click shibboleth
 
 https://github.com/Versent/saml2aws
+
+
+https://www.hpcworkshops.com/05-create-cluster/01-create-cluster.html
